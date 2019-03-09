@@ -1,0 +1,22 @@
+{
+  "name": "pizza-bot",
+  "version": "1.0.0",
+  "description": "A pizza delivery bot",
+  "main": "pizza-bot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magarcia5/pizza-bot.git"
+  },
+  "author": "Mel Alrajhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magarcia5/pizza-bot/issues"
+  },
+  "homepage": "https://github.com/magarcia5/pizza-bot#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
