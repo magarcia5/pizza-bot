@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magarcia5/pizza-bot.git"
+    "url": "-"
   },
-  "author": "Mel Alrajhi",
+  "author": "-",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/magarcia5/pizza-bot/issues"
+    "url": "-"
   },
-  "homepage": "https://github.com/magarcia5/pizza-bot#readme",
+  "homepage": "-",
   "devDependencies": {
     "mocha": "^6.0.2"
   }
